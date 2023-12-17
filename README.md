@@ -1,9 +1,9 @@
 # flutter_m16_assignment
 
 A new Flutter project.
-<img src="https://github.com/nazimfeni/flutter_m16_assignment/blob/master/screenshot/screen1.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/flutter_m16_assignmentt/blob/master/screenshot/screen2.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/flutter_m16_assignment/blob/master/screenshot/screen3.png" width="200" height="400" alt="Potrait image">
+<img src="https://github.com/nazimfeni/flutter_m16_assignment/blob/master/screenshot/screen1jpg.png" width="200" height="400" alt="Potrait image">
+<img src="https://github.com/nazimfeni/flutter_m16_assignmentt/blob/master/screenshot/screen2jpg.png" width="200" height="400" alt="Potrait image">
+<img src="https://github.com/nazimfeni/flutter_m16_assignment/blob/master/screenshot/screen3jpg.png" width="200" height="400" alt="Potrait image">
 
 ## Getting Started
 
